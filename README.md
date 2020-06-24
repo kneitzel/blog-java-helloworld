@@ -1,2 +1,3 @@
 # blog-java-helloworld
-A simple gradle Project with a HelloWorld application
+Eine einfache JavaFX HelloWorld Applikation mit Gradle.
+
